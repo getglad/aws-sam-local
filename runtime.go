@@ -102,7 +102,7 @@ var runtimeImageFor = map[string]string{
 	runtimeName.nodejs43:     "lambci/lambda:nodejs4.3",
 	runtimeName.nodejs610:    "lambci/lambda:nodejs6.10",
 	runtimeName.python27:     "lambci/lambda:python2.7",
-	runtimeName.python36:     "lambci/lambda:python3.6",
+	runtimeName.python36:     "mg/lambda:python3.6",
 	runtimeName.java8:        "lambci/lambda:java8",
 	runtimeName.go1x:         "lambci/lambda:go1.x",
 	runtimeName.dotnetcore20: "lambci/lambda:dotnetcore2.0",
